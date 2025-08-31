@@ -1,0 +1,287 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project
+T_opt
+!s110 1756678002
+V7`i6hG[V8=V]XgeX?^7z?1
+04 9 4 work risc_test fast 0
+=1-38f3ab68dcc2-68b4c771-2e0-6e18
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vALU
+Z1 !s110 1756678000
+!i10b 1
+!s100 5J];o[j8l9ch7hh9lN@Hz2
+IM@FY_LHZ95dhAXn0^iE9<3
+Z2 dC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/project_related_files/i_riscv_core_project.mpf
+w1756194113
+8C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/Alu.v
+FC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/Alu.v
+!i122 0
+L0 2 55
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z5 !s108 1756678000.000000
+Z6 !s107 C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/top_tb.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/register.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/phase_gen.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/mux.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/driver.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/counter_test.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/counter.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/controller_tb.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/controller.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/TOP.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/Memory.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/Alu.v|
+Z7 !s90 -l|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/logs/compile_20250901_010639.log|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/Alu.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/Memory.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/TOP.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/controller.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/controller_tb.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/counter.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/counter_test.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/driver.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/mux.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/phase_gen.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/register.v|C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/top_tb.v|
+!i113 0
+Z8 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@a@l@u
+vcontroller
+R1
+!i10b 1
+!s100 gVc0bghd3V:n=7jRBOYm`2
+I0i4B?7I9Q:KWEmAS4RkC>2
+R2
+w1756111990
+8C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/controller.v
+FC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/controller.v
+!i122 0
+L0 1 53
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R0
+vcontroller_test
+R1
+!i10b 1
+!s100 4VhYWzUzRRDj^U<e:QRQB3
+Ig`njFLmQeOSE>UH^HH@ZG3
+R2
+w1756111505
+8C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/controller_tb.v
+FC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/controller_tb.v
+!i122 0
+L0 1 145
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R0
+vcounter
+R1
+!i10b 1
+!s100 XOnWK7JYbBVQaz5PdX7Nl3
+I7@<TQZ17mT<jOA?deQD>_2
+R2
+w1756403243
+8C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/counter.v
+FC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/counter.v
+!i122 0
+L0 1 30
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R0
+vcounter_test
+R1
+!i10b 1
+!s100 g0ZbAkQ@D5L>GgNHH`dJ63
+I_AVUhdeEALdnl?9o>kj080
+R2
+w1756124760
+8C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/counter_test.v
+FC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/counter_test.v
+!i122 0
+L0 1 51
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R0
+vdriver
+R1
+!i10b 1
+!s100 TeSL^I8PR0N:_5_9`j=[Q0
+IeLc1>74GJ=zD_Z?>2X83h3
+R2
+w1756453798
+8C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/driver.v
+FC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/driver.v
+!i122 0
+L0 1 12
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R0
+vmemory
+R1
+!i10b 1
+!s100 :E5G>1OZKh8LaKZ>==nW`1
+IV=mL6T55IQUcXoE165F?c0
+R2
+w1756404519
+8C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/Memory.v
+FC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/Memory.v
+!i122 0
+L0 2 17
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R0
+vmultiplexor
+R1
+!i10b 1
+!s100 FPHS2Ae>c:V5ZjGgcL>3g3
+Ig5]M860n?ANbDa_AhPoF=1
+R2
+w1756194077
+8C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/mux.v
+FC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/mux.v
+!i122 0
+L0 1 13
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R0
+vphase_generator
+R1
+!i10b 1
+!s100 Zi?g5AWFd[kOLETEXP6D20
+I8X7Xf]6X^bo94;?>PUPRg2
+R2
+w1756190073
+8C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/phase_gen.v
+FC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/phase_gen.v
+!i122 0
+L0 1 14
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R0
+vregister
+R1
+!i10b 1
+!s100 e[RiF9M=?Wk?@<Kn:i0<U3
+I<@5lZhekRGKEk`FF?[4843
+R2
+w1756112441
+8C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/register.v
+FC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/register.v
+!i122 0
+L0 2 15
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R0
+vrisc
+R1
+!i10b 1
+!s100 OkkJJN6Bi]dbIiU;J>aJV0
+ISFCIAkX8VDXNC^`agdZMU3
+R2
+w1756453263
+8C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/TOP.v
+FC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/TOP.v
+!i122 0
+L0 1 121
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R0
+vrisc_test
+R1
+!i10b 1
+!s100 PP=6@`VmEVgXF5n=ikTFZ2
+IP4U56cN]dXmR3E?T]T:KB1
+R2
+w1756403422
+8C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/top_tb.v
+FC:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/top_tb.v
+!i122 0
+L0 1 162
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R0

@@ -1,0 +1,22 @@
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+Start time: 01:06:40 on Sep 01,2025
+vlog -l C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/logs/compile_20250901_010639.log C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/Alu.v C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/Memory.v C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/TOP.v C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/controller.v C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/controller_tb.v C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/counter.v C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/counter_test.v C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/driver.v C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/mux.v C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/phase_gen.v C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/register.v C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/top_tb.v 
+-- Compiling module ALU
+-- Compiling module memory
+-- Compiling module risc
+-- Compiling module controller
+-- Compiling module controller_test
+-- Compiling module counter
+-- Compiling module counter_test
+-- Compiling module driver
+-- Compiling module multiplexor
+-- Compiling module phase_generator
+-- Compiling module register
+-- Compiling module risc_test
+
+Top level modules:
+	controller_test
+	counter_test
+	risc_test
+End time: 01:06:40 on Sep 01,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0

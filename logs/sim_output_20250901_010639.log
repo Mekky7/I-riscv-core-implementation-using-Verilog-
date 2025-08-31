@@ -1,0 +1,46 @@
+# vsim -c -voptargs=""+acc"" work.risc_test -l C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/logs/sim_output_20250901_010639.log 
+# Start time: 01:06:41 on Sep 01,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# //  Questa Sim-64
+# //  Version 2021.1 win64 Jan 19 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading work.risc_test(fast)
+# Loading work.risc(fast)
+# Loading work.counter(fast)
+# Loading work.phase_generator(fast)
+# Loading work.controller(fast)
+# Loading work.memory(fast)
+# Loading work.multiplexor(fast)
+# Loading work.register(fast)
+# Loading work.driver(fast)
+# Loading work.ALU(fast)
+# Testing reset
+# Testing HLT instruction
+# Testing JMP instruction
+# Testing SKZ instruction
+# Testing LDA instruction
+# Testing STO instruction
+# Testing AND instruction
+# Testing XOR instruction
+# Testing ADD instruction
+# ** Warning: (vsim-7) Failed to open readmem file "CPUtest1.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/top_tb.v(146)
+#    Time: 516 ns  Iteration: 0  Instance: /risc_test
+# Doing test CPUtest1.txt
+# TEST FAILED
+# time=798: halt is x and should be 1
+# ** Note: $finish    : C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project/rtl/top_tb.v(25)
+#    Time: 798 ns  Iteration: 0  Instance: /risc_test
+# End time: 01:06:49 on Sep 01,2025, Elapsed time: 0:00:08
+# Errors: 0, Warnings: 1

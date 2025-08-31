@@ -1,0 +1,31 @@
+# do run.do
+# i_riscv_core_project
+# risc_test
+# C:/Users/mosta/OneDrive/Desktop/irisc_v_core_project
+# 20250829_135032
+# ./logs/compile_20250829_135032.log
+# ./logs/sim_output_20250829_135032.log
+# ./logs/sim_err_20250829_135032.log
+# ./project_related_files/i_riscv_core_project.mpf
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 13:50:32 on Aug 29,2025
+# vlog -l ./logs/compile_20250829_135032.log Alu.v Memory.v TOP.v controller.v controller_tb.v counter.v counter_test.v driver.v mux.v phase_gen.v register.v top_tb.v 
+# -- Compiling module ALU
+# -- Compiling module memory
+# -- Compiling module risc
+# -- Compiling module controller
+# -- Compiling module controller_test
+# -- Compiling module counter
+# -- Compiling module counter_test
+# -- Compiling module driver
+# -- Compiling module multiplexor
+# -- Compiling module phase_generator
+# -- Compiling module register
+# -- Compiling module risc_test
+# 
+# Top level modules:
+# 	controller_test
+# 	counter_test
+# 	risc_test
+# End time: 13:50:33 on Aug 29,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
